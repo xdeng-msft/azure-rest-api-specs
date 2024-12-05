@@ -40,7 +40,11 @@
               "dayOfWeek": "Saturday"
             }
           ]
-        }
+        },
+        "managedPrivateUDP": "Enabled",
+        "directUDP": "Enabled",
+        "publicUDP": "Enabled",
+        "relayUDP": "Enabled"
       }
     }
   },
@@ -101,10 +105,13 @@
                 "dayOfWeek": "Saturday"
               }
             ]
-          }
+          },
+          "managedPrivateUDP": "Enabled",
+          "directUDP": "Enabled",
+          "publicUDP": "Enabled",
+          "relayUDP": "Enabled"
         }
       }
     }
   }
 }
-

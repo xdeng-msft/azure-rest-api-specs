@@ -65,7 +65,11 @@
                     "dayOfWeek": "Saturday"
                   }
                 ]
-              }
+              },
+              "managedPrivateUDP": "Default",
+              "directUDP": "Default",
+              "publicUDP": "Default",
+              "relayUDP": "Default"
             }
           },
           {
@@ -123,7 +127,11 @@
                     "dayOfWeek": "Saturday"
                   }
                 ]
-              }
+              },
+              "managedPrivateUDP": "Default",
+              "directUDP": "Default",
+              "publicUDP": "Default",
+              "relayUDP": "Default"
             }
           }
         ]
@@ -131,4 +139,3 @@
     }
   }
 }
-
